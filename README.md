@@ -1,6 +1,3 @@
-```markdown
-Syntax highlighted code block
-
 # Header  1
 Minecraft recipe wool into string
 

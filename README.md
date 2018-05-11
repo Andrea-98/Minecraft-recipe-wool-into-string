@@ -5,3 +5,5 @@ Minecraft recipe wool into string
 A minecraft recipe to convert wool into string
 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](leccioli.andrea@gmail.com)
+
+[![npm](https://img.shields.io/npm/dt/express.svg?style=plastic)](https://github.com/Andrea-98/Minecraft-recipe-wool-into-string/blob/master/woolintostring.zs)

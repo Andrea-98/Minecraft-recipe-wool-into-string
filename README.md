@@ -8,3 +8,5 @@ A minecraft recipe to convert wool into string
 
 
 <a href="https://github.com/Andrea-98/Minecraft-recipe-wool-into-string/blob/master/woolintostring.zs" download>Click to Download</a>
+
+<a href="https://github.com/Andrea-98/Minecraft-recipe-wool-into-string/blob/master/LICENSE" https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/GPLv3_Logo.svg/720px-GPLv3_Logo.svg.png</a>

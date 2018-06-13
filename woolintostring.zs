@@ -1,4 +1,5 @@
 #Name woolintostring
+
 #Author andrea_leccioli
 
 print("Initializing 'woolintostring.zs'....");

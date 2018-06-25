@@ -3,7 +3,7 @@
 ## <!-- Header 2 --> A minecraft recipe to convert wool into string
 
 <!-- [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](leccioli.andrea@gmail.com) -->
-<a href="https://paypal.me/AndreaLeccioli" title="Donate"><img src="https://img.shields.io/badge/Donate-PayPal-009cde.svg?style=style-for--the-badge"></a>
+<a href="https://paypal.me/AndreaLeccioli" title="Donate"><img src="https://img.shields.io/badge/Donate-PayPal-009cde.svg?style=for-the-badge"></a>
 
 
 <a href="https://github.com/Andrea-98/Minecraft-recipe-wool-into-string/blob/master/woolintostring.zs" download><img src="http://open-axcss.com/home/wp-content/uploads/2016/09/download-button-large.png"/></a>

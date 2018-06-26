@@ -2,8 +2,10 @@
 
 #Author andrea_leccioli
 
-print("Initializing 'woolintostring.zs'....");
+#Version 0.0.1
+
+print(" Initializing 'woolintostring.zs'.... ");
 
 recipes.addShaped(<minecraft:string> * 4, [[<ore:wool>]]);
 
-print("Initialized 'woolintostring.zs'");
+print(" .... Initialized 'woolintostring.zs'");
